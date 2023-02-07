@@ -1,0 +1,27 @@
+[
+    {
+        "Timestamp": "2019-08-27 01:34:36 207",
+        "status": "Success",
+        "message": "Client 05a26a97-272a-4bc9-8f64-269d154b0e39 connected"
+    },
+    {
+        "Timestamp": "2019-08-27 01:33:33 208",
+        "status": "Warning",
+        "message": "Client ec53d95c-1c88-41ae-8174-92104212de5d disconnected"
+    },
+    {
+        "Timestamp": "2019-08-27 01:35:44 209",
+        "status": "Success",
+        "message": "Transaction 10d65890-b003-48f8-9cfc-9c74b51189c8 succeeded"
+    },
+    {
+        "Timestamp": "2019-08-27 01:38:22 302",
+        "status": "Error",
+        "message": "Application could not connect to database"
+    },
+    {
+        "Timestamp": "2019-08-27 01:31:34 303",
+        "status": "Error",
+        "message": "Application lost connection to database"
+    }
+]
